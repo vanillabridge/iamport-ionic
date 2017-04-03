@@ -1,5 +1,5 @@
 function handleOpenURL(url) {
-  var status = url.replace('ioniciamport://', '');
+  var status = url.replace('iamportprinttt://', '');
 
   var event = new CustomEvent('kpay', {detail: {browser: inAppBrowserRef, url: url, status: status}});
 
