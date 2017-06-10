@@ -14,7 +14,7 @@
   <engines>
     <engine name="cordova" version=">=3.1.0"/>
   </engines>
-  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"/>
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme.git"/>
   <dependency id="cordova-plugin-inappbrowser" url="https://github.com/neinhart/cordova-plugin-inappbrowser.git"/>
 
   <asset src="www/iamport-checkout.html" target="iamport-checkout.html"></asset>
