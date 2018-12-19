@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neinhart/iamport-ionic.git"
+    "url": "git+https://github.com/vanillabridge/iamport-ionic.git"
   },
   "keywords": [
     "cordova",
@@ -21,7 +21,7 @@
   "author": "Don Coleman <don.coleman@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/neinhart/iamport-ionic/issues"
+    "url": "https://github.com/vanillabridge/iamport-ionic/issues"
   },
-  "homepage": "https://github.com/neinhart/iamport-ionic#readme"
+  "homepage": "https://github.com/vanillabridge/iamport-ionic#readme"
 }
